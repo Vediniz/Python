@@ -1,6 +1,0 @@
-#Jupyter checkpoints
-*.ipnynb_checkpoints
-
-#package
-package.json
-
